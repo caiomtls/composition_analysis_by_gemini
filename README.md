@@ -1,6 +1,7 @@
  ## Detector de Elementos Químicos em Imagens
 
 ![Alt text](unnamed.png)
+*Imagem gerada pelo Gemini*
 
 Este projeto consiste em uma aplicação que utiliza inteligência artificial para identificar o elemento químico mais presente em uma imagem. 
 
